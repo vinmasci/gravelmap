@@ -1,0 +1,5 @@
+/* Set the size of the map container */
+#map {
+    width: 100vw;
+    height: 100vh;
+}
